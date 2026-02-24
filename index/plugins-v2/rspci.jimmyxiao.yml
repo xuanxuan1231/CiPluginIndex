@@ -1,7 +1,7 @@
 id: rspci.jimmyxiao
 name: 远程关机/截屏控制
 description: 通过局域网网页端远程截屏、关机、重启被控电脑（仅限 Windows）。
-entranceAssembly: RemoteShutdownPlugin.dll
+entranceAssembly: "RemoteShutdownPlugin.dll"
 author: Jimmyxiao2009
 version: 2.0.0.0
 apiVersion: 2.0.0.0
