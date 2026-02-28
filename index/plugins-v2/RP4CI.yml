@@ -15,4 +15,5 @@ repoOwner: xuanxuan1231
 repoName: RandPicker_CI
 assetsRoot: main/RP4CI
 artifactName: RP4CI.cipx
-tagPattern: v*.*.**
+tagPattern: *.*.**
+apiVersion: 2.0.0.0
